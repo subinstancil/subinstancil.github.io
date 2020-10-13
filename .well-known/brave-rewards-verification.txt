@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: subinstancil.github.io
+Token: 5d054dafaaf96dedb039f951d00ac1fe7bd976ca1b1a76fc3689e21200aa4e54
